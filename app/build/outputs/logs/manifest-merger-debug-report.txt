@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e55b601e191981cd54843de342a32c26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/27b18b5763a2dc95f4781242b779cab5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/902c5f4d253aee8ef2b66f9f13d3259d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a59ea44b9050dcf49e5069c0a1e0e3a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c044e094cdb80c8c372a5bb38bc541c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e2be01a8cef25f5d1699452714eb08d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4edb6c21c44746dc2239fdb351cb7503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d120e1ecfd87884ab6db92c1f18c6627/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/29a64b2f194c64d7a64b6b3f704fcbc4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/28d0024cf92dcb439ff1e94bed731d06/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a51fd9c39b80f9ab9eeedac5619858e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f2658d2b628ea00cb585633dc36c9d3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/27b18b5763a2dc95f4781242b779cab5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/27b18b5763a2dc95f4781242b779cab5/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.robert.widget.MainActivity
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e55b601e191981cd54843de342a32c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e55b601e191981cd54843de342a32c26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/27b18b5763a2dc95f4781242b779cab5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/27b18b5763a2dc95f4781242b779cab5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/902c5f4d253aee8ef2b66f9f13d3259d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/902c5f4d253aee8ef2b66f9f13d3259d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a59ea44b9050dcf49e5069c0a1e0e3a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a59ea44b9050dcf49e5069c0a1e0e3a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c044e094cdb80c8c372a5bb38bc541c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c044e094cdb80c8c372a5bb38bc541c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e2be01a8cef25f5d1699452714eb08d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e2be01a8cef25f5d1699452714eb08d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4edb6c21c44746dc2239fdb351cb7503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4edb6c21c44746dc2239fdb351cb7503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d120e1ecfd87884ab6db92c1f18c6627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/robert/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d120e1ecfd87884ab6db92c1f18c6627/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/29a64b2f194c64d7a64b6b3f704fcbc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/29a64b2f194c64d7a64b6b3f704fcbc4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/28d0024cf92dcb439ff1e94bed731d06/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/28d0024cf92dcb439ff1e94bed731d06/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a51fd9c39b80f9ab9eeedac5619858e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a51fd9c39b80f9ab9eeedac5619858e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f2658d2b628ea00cb585633dc36c9d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/robert/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f2658d2b628ea00cb585633dc36c9d3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/robert/Desktop/lean/github/RBImageView/app/src/main/AndroidManifest.xml
